@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://test-stfu-applifting.herokuapp.com/",
+    "ignoreTestFiles": "**/examples/*",
+    "viewportHeight": 768,
+    "viewportWindth": 1024
+}
